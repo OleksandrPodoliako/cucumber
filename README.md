@@ -18,7 +18,7 @@ install maven
 
 2.2 unzip
 
-2.3 set gradle path to 'M2_HOME' environment variable
+2.3 set maven path to 'M2_HOME' environment variable
 
 2.4 add %M2_HOME%\bin to 'Path' environment variable
 
